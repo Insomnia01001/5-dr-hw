@@ -1,0 +1,6 @@
+ism = input("ismingizni kirirting  ")
+yosh = input("yoshingizni kiriting  ")
+manzil =input("manzilingizni kirirting  ")
+print(f"ism: {ism}, yosh: {yosh}, manzil: {manzil}")
+text = input("ism kirirtng  ")
+print(text[-1])
